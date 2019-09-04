@@ -5,6 +5,6 @@
 
 int main()
 {
-	std::cout<<func()<<std::endl;
+	std::cout<<myfunc()<<std::endl;
 	return 0;
 }
