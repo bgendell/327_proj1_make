@@ -1,4 +1,5 @@
 CFLAGS = -g -Wall
+
 #create myexe
 all: myfunc.o
 	g++ $(CFLAGS) -o myexe myfunc.o main.cpp

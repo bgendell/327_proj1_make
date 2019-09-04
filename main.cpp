@@ -1,8 +1,6 @@
-//#includes are ALWAYS at top of file
-#include <iostream>	//iostream is where std::cout and std::endl are defined
+//main.cpp
+#include <iostream>
 #include "myfunc.h"
-
-
 int main()
 {
 	std::cout<<myfunc()<<std::endl;
